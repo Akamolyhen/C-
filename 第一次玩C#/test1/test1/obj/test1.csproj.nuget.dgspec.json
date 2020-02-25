@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aka_captain/Documents/GitHub/C-/test1/test1/test1.csproj": {}
+    "/Users/aka_captain/Documents/GitHub/C-/第一次玩C#/test1/test1/test1.csproj": {}
   },
   "projects": {
-    "/Users/aka_captain/Documents/GitHub/C-/test1/test1/test1.csproj": {
+    "/Users/aka_captain/Documents/GitHub/C-/第一次玩C#/test1/test1/test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/test1/test1/test1.csproj",
+        "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/第一次玩C#/test1/test1/test1.csproj",
         "projectName": "test1",
-        "projectPath": "/Users/aka_captain/Documents/GitHub/C-/test1/test1/test1.csproj",
+        "projectPath": "/Users/aka_captain/Documents/GitHub/C-/第一次玩C#/test1/test1/test1.csproj",
         "packagesPath": "/Users/aka_captain/.nuget/packages/",
-        "outputPath": "/Users/aka_captain/Documents/GitHub/C-/test1/test1/obj/",
+        "outputPath": "/Users/aka_captain/Documents/GitHub/C-/第一次玩C#/test1/test1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
