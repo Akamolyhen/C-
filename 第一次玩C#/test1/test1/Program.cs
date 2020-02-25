@@ -10,7 +10,7 @@
         str1 = V;
         str2 = "好恶心啊！";
 
-        System.Console.WriteLine("我真的\n好\t烦C#{0}{1}", str2, str1 + str3);
+        System.Console.WriteLine("我真的好烦C#{0}{1}", str2, str1 + str3);
 
     }
 }
