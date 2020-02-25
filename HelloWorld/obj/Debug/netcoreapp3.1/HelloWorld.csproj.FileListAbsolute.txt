@@ -1,0 +1,11 @@
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/aka_captain/Documents/GitHub/C-/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
