@@ -1,5 +1,11 @@
 /Users/aka_captain/Documents/GitHub/C-/test/test/bin/Debug/test.exe
 /Users/aka_captain/Documents/GitHub/C-/test/test/bin/Debug/test.pdb
-/Users/aka_captain/Documents/GitHub/C-/test/test/obj/Debug/test.csprojAssemblyReference.cache
 /Users/aka_captain/Documents/GitHub/C-/test/test/obj/Debug/test.exe
 /Users/aka_captain/Documents/GitHub/C-/test/test/obj/Debug/test.pdb
+/Users/aka_captain/Documents/GitHub/C-/test/test/obj/Debug/test.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\C-\test\test\bin\Debug\test.exe.config
+\\Mac\Home\Documents\GitHub\C-\test\test\bin\Debug\test.exe
+\\Mac\Home\Documents\GitHub\C-\test\test\bin\Debug\test.pdb
+\\Mac\Home\Documents\GitHub\C-\test\test\obj\Debug\test.exe
+\\Mac\Home\Documents\GitHub\C-\test\test\obj\Debug\test.pdb
+\\Mac\Home\Documents\GitHub\C-\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache

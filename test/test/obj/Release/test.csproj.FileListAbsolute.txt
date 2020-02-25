@@ -1,0 +1,2 @@
+/Users/aka_captain/Documents/GitHub/C-/test/test/bin/Release/test.exe
+/Users/aka_captain/Documents/GitHub/C-/test/test/obj/Release/test.exe
