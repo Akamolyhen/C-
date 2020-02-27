@@ -41,7 +41,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter01.Listing01_16
 
             System.Console.WriteLine(
                 "Your full name is {0}{1}.",firstName,lastName);
-            System.Console.WriteLine($"Your full name is {firstName}{lastName} say："+$"{str1}\n{str2}");
+            System.Console.WriteLine($"Your full name is {firstName}{lastName} say："+$"{str1}\t{str2}");
         }
     }
 }
