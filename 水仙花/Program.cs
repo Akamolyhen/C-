@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 namespace 水仙花
 {
     class Program
@@ -41,4 +41,28 @@ namespace 水仙花
        
     }
 }
+}
+*/
+using System;
+namespace qia
+{
+    class ToString
+    {
+        static void Main()
+        {
+            int i;
+            int m=1;
+            for(i=0;i<100;i++)
+            {
+                
+                int length=i.ToString().Length;
+                Console.Write(length);
+                if(m!=length)
+                {
+                    Console.WriteLine(length);
+                    m=length;
+                }
+            }
+        }
+    }
 }
