@@ -1,0 +1,11 @@
+/Users/aka_captain/Documents/GitHub/C-/testfor/obj/Debug/netcoreapp3.1/testfor.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/testfor/obj/Debug/netcoreapp3.1/testfor.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/testfor/obj/Debug/netcoreapp3.1/testfor.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor.deps.json
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor.dll
+/Users/aka_captain/Documents/GitHub/C-/testfor/bin/Debug/netcoreapp3.1/testfor.pdb
+/Users/aka_captain/Documents/GitHub/C-/testfor/obj/Debug/netcoreapp3.1/testfor.dll
+/Users/aka_captain/Documents/GitHub/C-/testfor/obj/Debug/netcoreapp3.1/testfor.pdb
