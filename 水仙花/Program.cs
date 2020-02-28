@@ -13,10 +13,15 @@ namespace 水仙花
             shi = i / 10 % 10;
             bai = i / 100;
             if (ge * ge * ge + shi * shi * shi + bai * bai * bai == i)
-               Console.Write("  {0}", i);
+               {
+               	Console.Write("  {0}", i);
+
+               }
          
          }
+        // Console.Write($"共有{j}个");
          Console.WriteLine("\n所有四位水仙花数是：");
+         //j=0;
          for(int i=1000;i<10000;i++)
          {
          	ge=i%10;
@@ -28,6 +33,7 @@ namespace 水仙花
          			Console.Write("  {0}", i);
          		}
         }
+       
        
     }
 }
