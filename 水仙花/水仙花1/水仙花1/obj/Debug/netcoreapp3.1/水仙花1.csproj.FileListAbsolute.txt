@@ -1,0 +1,11 @@
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1.deps.json
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1.dll
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/bin/Debug/netcoreapp3.1/水仙花1.pdb
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/obj/Debug/netcoreapp3.1/水仙花1.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/obj/Debug/netcoreapp3.1/水仙花1.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/obj/Debug/netcoreapp3.1/水仙花1.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/obj/Debug/netcoreapp3.1/水仙花1.dll
+/Users/aka_captain/Documents/GitHub/C-/水仙花/水仙花1/水仙花1/obj/Debug/netcoreapp3.1/水仙花1.pdb

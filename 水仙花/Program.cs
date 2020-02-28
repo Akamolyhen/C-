@@ -43,7 +43,7 @@ namespace 水仙花
 }
 }
 */
-using System;
+/*using System;
 namespace qia
 {
     class ToString
@@ -63,6 +63,34 @@ namespace qia
                     m=length;
                 }
             }
+        }
+    }
+}*/
+using System;
+namespace 水仙花
+{
+    class test
+    {
+        static void Main()
+        {
+            int i;
+            Console.Write("水仙花数有：");
+            for(i=100;i<10000;i++)
+            {
+                int sum=0;
+                int length=i.ToString().Length;
+                for(int j=i;j>0;j/=10)
+                    {
+                        int temp=j%10;
+                        sum+=(int)Math.Pow(temp,length);
+                    }
+                if(i==sum)
+                {
+                    Console.Write($"\t  {i}");
+                } 
+
+            }
+             Console.Write("\n");  
         }
     }
 }
