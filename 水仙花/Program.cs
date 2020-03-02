@@ -1,5 +1,5 @@
-﻿/*using System;
-namespace 水仙花
+﻿//using System;
+/*namespace 水仙花
 {
     class Program
     {
@@ -66,8 +66,8 @@ namespace qia
         }
     }
 }*/
-using System;
-namespace 水仙花
+//using System;
+/*namespace 水仙花
 {
     class test
     {
@@ -93,4 +93,23 @@ namespace 水仙花
              Console.Write("\n");  
         }
     }
-}
+}*/
+
+class test
+{
+    /*static void Main()//声明具名元组，将元组值赋给他，并按照名称访问元组项
+    {
+        (string Name, string Capital, double GdpPerCapita) countryInfo =
+            ("中国", "北京", 223342030400.43);
+        Console.WriteLine($"The richest country in the world in 2020 was {countryInfo.Name}," +
+            $"首都是{countryInfo.Capital},国民总Gdp{countryInfo.GdpPerCapita}");
+    }*/
+    static void Main()
+    {
+        var countryInfo = ("hehe", "haha", 250);
+        System.Console.WriteLine($"你是真的想得开{countryInfo.Item1}{countryInfo.Item2}{countryInfo.Item3}");
+    }
+}   
+ 
+
+
