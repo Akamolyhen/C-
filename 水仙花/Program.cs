@@ -107,7 +107,8 @@ class test
     static void Main()
     {
         var countryInfo = ("hehe", "haha", 250);
-        System.Console.WriteLine($"你是真的想得开{countryInfo.Item1}{countryInfo.Item2}{countryInfo.Item3}");
+        System.Array.Reverse();
+                System.Console.WriteLine($"你是真的想得开{countryInfo.Item1}{countryInfo.Item2}{countryInfo.Item3}");
     }
 }   
  
