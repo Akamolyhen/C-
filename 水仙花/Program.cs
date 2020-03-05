@@ -109,7 +109,7 @@ namespace qia
         
     }
 }*/
-using System;
+/*using System;
 namespace test
 
 {
@@ -157,7 +157,64 @@ namespace test
         }
        
     }
+}*/
+
+using System;
+class laoqu
+{
+    static void Main(string[] args)
+    {
+
+        //1.for
+        int ODDadd = 0;
+        int EVENadd = 0;
+
+        for (int i = 1; i <= 100; i++)
+        {
+            if (i % 2 == 0) EVENadd = EVENadd + i;
+            else ODDadd = ODDadd + i;
+            
+        }
+        Console.WriteLine("100以内的奇数和为：{0}", +ODDadd);
+        Console.WriteLine("100以内的偶数和为：{0}", +EVENadd);
+        Console.WriteLine("----------------------------------");
+
+
+        //2.while
+        int ODDadd1 = 0;
+        int EVENadd1 = 0;
+        int j = 1;
+        while (j <= 100)
+        {
+            if (j % 2 == 0) EVENadd1 = EVENadd1 + j;
+            else ODDadd1 = ODDadd1 + j;
+            j++;
+
+
+        }
+        Console.WriteLine("100以内的奇数和为：{0}", +ODDadd1);
+        Console.WriteLine("100以内的偶数和为：{0}", +EVENadd1);
+        Console.WriteLine("***********************************");
+
+
+        // 3.do....while
+        int ODDadd2 = 0;
+        int EVENadd2 = 0;
+        int k = 1;
+        do
+        {
+            if (k % 2 == 0) EVENadd2 = EVENadd2 + k;
+            else ODDadd2 = ODDadd2 + k;
+            k++;
+
+        } while (k <= 100);
+        Console.WriteLine("100以内的奇数和为：{0}", +ODDadd2);
+        Console.WriteLine("100以内的偶数和为：{0}", +EVENadd2);
+        Console.WriteLine("###################################");
+
+    }
 }
+
 
 
 
