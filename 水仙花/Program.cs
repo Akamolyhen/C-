@@ -95,7 +95,7 @@ namespace qia
     }
 }*/
 
-class test
+/*class test
 {
     /*static void Main()//声明具名元组，将元组值赋给他，并按照名称访问元组项
     {
@@ -103,14 +103,61 @@ class test
             ("中国", "北京", 223342030400.43);
         Console.WriteLine($"The richest country in the world in 2020 was {countryInfo.Name}," +
             $"首都是{countryInfo.Capital},国民总Gdp{countryInfo.GdpPerCapita}");
-    }*/
+    }
     static void Main()
     {
-        var countryInfo = ("hehe", "haha", 250);
-        System.Array.Reverse();
-                System.Console.WriteLine($"你是真的想得开{countryInfo.Item1}{countryInfo.Item2}{countryInfo.Item3}");
+        
     }
-}   
- 
+}*/
+using System;
+namespace test
+
+{
+    class 阶乘
+    {
+        static void Main(string[] args)
+
+        {
+
+            Console.WriteLine("请输入一个数");
+
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            int sum=0;
+            for(int j = number; j >= 1; j--)
+            {
+                
+                int result = JieCheng(j);
+                sum = sum + result;
+            }
+            Console.WriteLine($"这个数的阶乘和是{sum}");
+            
+
+           
+           
+
+        }
+
+
+
+        public static int JieCheng(int number)
+
+        {
+
+            if (number == 0)
+
+            {
+
+                return 1;
+
+            }
+
+            return number * JieCheng(number - 1);
+
+        }
+       
+    }
+}
+
 
 
