@@ -109,7 +109,7 @@ namespace qia
         
     }
 }*/
-/*using System;
+using System;
 namespace test
 
 {
@@ -119,7 +119,7 @@ namespace test
 
         {
 
-            Console.WriteLine("请输入一个数");
+            /*Console.WriteLine("请输入一个数");
 
             int number = Convert.ToInt32(Console.ReadLine());
 
@@ -129,13 +129,34 @@ namespace test
                 
                 int result = JieCheng(j);
                 sum = sum + result;
+            }*/
+            Console.WriteLine("请输入一个数");
+
+            int number = Convert.ToInt32(Console.ReadLine());
+            int[] result = new int[number];
+            result = Sum(number);
+            for(int j = 0; j < number-1; j++)
+            {
+                Console.Write($"{result[j]}+");
             }
-            Console.WriteLine($"这个数的阶乘和是{sum}");
+            Console.Write($"{result[number-1]}={result[number]}");
+        }
+
+        public static  int[] Sum(int i)
+        {
             
 
-           
-           
+            int sum = 0;
+            int[] shu=new int[i];
+            for (int j = i; j >= 1; j--)
+            {
 
+                int result = JieCheng(j);
+                shu[i - j] = result;
+                sum = sum + result;
+            }
+            shu[i] = sum;
+            return shu;
         }
 
 
@@ -157,9 +178,9 @@ namespace test
         }
        
     }
-}*/
+}
 
-using System;
+/*using System;
 class laoqu
 {
     static void Main(string[] args)
@@ -214,7 +235,7 @@ class laoqu
 
     }
 }
-
+*/
 
 
 
