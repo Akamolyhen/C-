@@ -133,13 +133,14 @@ namespace test
             Console.WriteLine("请输入一个数");
 
             int number = Convert.ToInt32(Console.ReadLine());
-            int[] result = new int[number];
-            result = Sum(number);
-            for(int j = 0; j < number-1; j++)
+            _ = new int[number];
+            int[] result = Sum(number);
+            /*for (int j = 0; j < number-1; j++)
             {
                 Console.Write($"{result[j]}+");
             }
-            Console.Write($"{result[number-1]}={result[number]}");
+            Console.Write($"{result[number-1]}={result[number]}");*/
+            Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
         }
 
         public static  int[] Sum(int i)
@@ -153,7 +154,7 @@ namespace test
 
                 int result = JieCheng(j);
                 shu[i - j] = result;
-                sum = sum + result;
+                sum += result;
             }
             shu[i] = sum;
             return shu;
