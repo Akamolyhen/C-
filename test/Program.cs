@@ -8,7 +8,7 @@ namespace test
         {
             Console.WriteLine("Hello World!");
             string i=Console.ReadLine();
-            int num=Convert.Toint32(i);
+            int num=Convert.ToInt32(i);
             Console.WriteLine(num);
         }
     }
