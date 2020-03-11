@@ -131,24 +131,35 @@ namespace test
                 sum = sum + result;
             }*/
             Console.WriteLine("请输入一个数");
+            string i = Console.ReadLine();
+            /*do
+            {
 
-            int number = Convert.ToInt32(Console.ReadLine());
-            _ = new int[number];
-            int[] result = Sum(number);
-            /*for (int j = 0; j < number-1; j++)
+                i = Console.ReadLine();
+                int num= Convert.ToInt32(i);
+                if (num != 0)
+                    break;
+            }
+            while (true);*/
+            
+            int number = Convert.ToInt32(i);
+            int[] cen = new int[number+1];
+            int[] result = Sum(number,cen);
+            Console.Write($"这个数是{number},他的阶乘和：");
+            for (int j = 0; j < number-1; j++)
             {
                 Console.Write($"{result[j]}+");
             }
-            Console.Write($"{result[number-1]}={result[number]}");*/
-            Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
+            Console.Write($"{result[number-1]}={result[number]}");
+            //Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
         }
 
-        public static  int[] Sum(int i)
+        public static  int[] Sum(int i,int[] shu)
         {
             
 
             int sum = 0;
-            int[] shu=new int[i];
+           
             for (int j = i; j >= 1; j--)
             {
 
