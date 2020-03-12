@@ -131,17 +131,13 @@ namespace test
                 sum = sum + result;
             }*/
             Console.WriteLine("请输入一个数");
-            string i = Console.ReadLine();
-            /*do
-            {
+            string i;//= Console.ReadLine();
 
+            do
+            {
                 i = Console.ReadLine();
-                int num= Convert.ToInt32(i);
-                if (num != 0)
-                    break;
             }
-            while (true);*/
-            
+            while (i=="");
             int number = Convert.ToInt32(i);
             int[] cen = new int[number+1];
             int[] result = Sum(number,cen);
