@@ -110,7 +110,7 @@ namespace qia
     }
 }*/
 using System;
-namespace test
+/*namespace test
 
 {
     class 阶乘
@@ -130,63 +130,63 @@ namespace test
                 int result = JieCheng(j);
                 sum = sum + result;
             }*/
-            Console.WriteLine("请输入一个数");
-            string i;//= Console.ReadLine();
+/* Console.WriteLine("请输入一个数");
+ string i;//= Console.ReadLine();
 
-            do
-            {
-                i = Console.ReadLine();
-            }
-            while (i=="");
-            int number = Convert.ToInt32(i);
-            int[] cen = new int[number+1];
-            int[] result = Sum(number,cen);
-            Console.Write($"这个数是{number},他的阶乘和：");
-            for (int j = 0; j < number-1; j++)
-            {
-                Console.Write($"{result[j]}+");
-            }
-            Console.Write($"{result[number-1]}={result[number]}");
-            //Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
-        }
-
-        public static  int[] Sum(int i,int[] shu)
-        {
-            
-
-            int sum = 0;
-           
-            for (int j = i; j >= 1; j--)
-            {
-
-                int result = JieCheng(j);
-                shu[i - j] = result;
-                sum += result;
-            }
-            shu[i] = sum;
-            return shu;
-        }
-
-
-
-        public static int JieCheng(int number)
-
-        {
-
-            if (number == 0)
-
-            {
-
-                return 1;
-
-            }
-
-            return number * JieCheng(number - 1);
-
-        }
-       
-    }
+ do
+ {
+     i = Console.ReadLine();
+ }
+ while (i=="");
+ int number = Convert.ToInt32(i);
+ int[] cen = new int[number+1];
+ int[] result = Sum(number,cen);
+ Console.Write($"这个数是{number},他的阶乘和：");
+ for (int j = 0; j < number-1; j++)
+ {
+     Console.Write($"{result[j]}+");
+ }
+ Console.Write($"{result[number-1]}={result[number]}");
+ //Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
 }
+
+public static  int[] Sum(int i,int[] shu)
+{
+
+
+ int sum = 0;
+
+ for (int j = i; j >= 1; j--)
+ {
+
+     int result = JieCheng(j);
+     shu[i - j] = result;
+     sum += result;
+ }
+ shu[i] = sum;
+ return shu;
+}
+
+
+
+public static int JieCheng(int number)
+
+{
+
+ if (number == 0)
+
+ {
+
+     return 1;
+
+ }
+
+ return number * JieCheng(number - 1);
+
+}
+
+}
+}*/
 
 /*using System;
 class laoqu
@@ -244,6 +244,32 @@ class laoqu
     }
 }
 */
+namespace Test
+{
+
+     public class Anlimal
+    {
+        protected int age = 4;
+        protected void say(string name, string color)
+        {
+            Console.WriteLine("姓名：{0}，颜色：{1}", name, color);
+        }
+    }
+    class Dog : Anlimal
+    {
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+            int age = dog.age;
+            Console.WriteLine("dog.age:{0}", age);
+            dog.say("小黄", "黑色");
+        }
+
+    }
+
+
+}
+
 
 
 
