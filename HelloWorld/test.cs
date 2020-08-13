@@ -1,4 +1,4 @@
-﻿/*
+﻿using System;
 namespace HelloWorld
 {
     class Program
@@ -20,7 +20,7 @@ namespace HelloWorld
         }
     }
 }
-*/
+
 /*namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter01.Listing01_16
 {
     public class Program
@@ -46,7 +46,7 @@ namespace HelloWorld
     }
 }*/
 
-</pre><pre name="code" class="csharp">using System;
+/*</pre><pre name="code" class="csharp">using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -147,5 +147,5 @@ namespace NarcissisticNumber
             Console.ReadKey();//防止程序闪退
         }
     }
-}
+}*/
 
