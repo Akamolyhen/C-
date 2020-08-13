@@ -7,7 +7,7 @@ namespace HelloWorld
         {
             string str1,str2,str3;//变量使用camelCase风格（除第一个单词外，其他每个单词的首字母都要大写）
             Console.Write("你的名字是：");
-            str3=System.Console.ReadLine();
+            str3=Console.ReadLine();
             str2="程锦昊是：";
             str1=Console.ReadLine();
            Console.WriteLine(str2+str1);

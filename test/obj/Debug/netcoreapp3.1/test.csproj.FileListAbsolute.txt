@@ -8,3 +8,5 @@
 /Users/aka_captain/Documents/GitHub/C-/test/bin/Debug/netcoreapp3.1/test.pdb
 /Users/aka_captain/Documents/GitHub/C-/test/obj/Debug/netcoreapp3.1/test.dll
 /Users/aka_captain/Documents/GitHub/C-/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/aka_captain/Documents/GitHub/C-/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
