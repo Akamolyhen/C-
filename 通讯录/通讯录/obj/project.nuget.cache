@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UKpGWv2DVC3VWN8SBHkrO+jQUyELMNxuXWkwI1iRrEAN7/CSX3lDhzKElF5FJkcFAEQlgXYFZ0aATkPQMwPig==",
+  "success": true,
+  "projectFilePath": "/Users/aka_captain/Documents/GitHub/C-/通讯录/通讯录/通讯录.csproj",
+  "expectedPackageFiles": [
+    "/Users/aka_captain/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
