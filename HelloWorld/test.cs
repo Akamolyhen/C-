@@ -1,5 +1,5 @@
 ﻿using System;
-namespace HelloWorld
+/*namespace HelloWorld
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace HelloWorld
         }
     }
 }
-
+*/
 /*namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter01.Listing01_16
 {
     public class Program
@@ -148,4 +148,55 @@ namespace NarcissisticNumber
         }
     }
 }*/
+
+
+
+namespace test
+{
+    class 阶乘
+    {
+        static void Main()
+        {
+            Console.WriteLine("请输入一个数");
+            string i;       //= Console.ReadLine();
+            do
+            {
+                i = Console.ReadLine();
+            }
+            while (i == "");
+            int number = Convert.ToInt32(i);
+            int[] cen = new int[number + 1];
+            int[] result = Sum(number, cen);
+            Console.Write($"这个数是{number},他的阶乘和：");
+            for (int j = 0; j < number - 1; j++)
+            {
+                Console.Write($"{result[j]}+");
+            }
+            Console.Write($"{result[number - 1]}={result[number]}");
+            //Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
+        }
+        public static int[] Sum(int i, int[] shu)
+        {
+            int sum = 0;
+            for (int j = i; j >= 1; j--)
+            {
+                int result = JieCheng(j);
+                shu[i - j] = result;
+                sum += result;
+            }
+            shu[i] = sum;
+            return shu;
+        }
+        public static int JieCheng(int number)
+        {
+            if (number == 0)
+            {
+                return 1;
+            }
+            return number * JieCheng(number - 1);
+        }
+    }
+}
+
+
 

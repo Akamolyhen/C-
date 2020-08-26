@@ -1,5 +1,5 @@
-﻿//using System;
-/*namespace 水仙花
+﻿/*using System;
+namespace 水仙花
 {
     class Program
     {
@@ -66,8 +66,8 @@ namespace qia
         }
     }
 }*/
-//using System;
-/*namespace 水仙花
+/*using System;
+namespace 水仙花
 {
     class test
     {
@@ -82,7 +82,7 @@ namespace qia
                 for(int j=i;j>0;j/=10)
                     {
                         int temp=j%10;
-                        sum+=(int)Math.Pow(temp,length);
+                    sum += (int)Math.Pow(temp, length) ;
                     }
                 if(i==sum)
                 {
@@ -93,7 +93,7 @@ namespace qia
              Console.Write("\n");  
         }
     }
-}*/
+}
 
 /*class test
 {
@@ -110,7 +110,7 @@ namespace qia
     }
 }*/
 using System;
-/*namespace test
+namespace test
 
 {
     class 阶乘
@@ -130,41 +130,41 @@ using System;
                 int result = JieCheng(j);
                 sum = sum + result;
             }*/
-/* Console.WriteLine("请输入一个数");
- string i;//= Console.ReadLine();
+Console.WriteLine("请输入一个数");
+string i;//= Console.ReadLine();
 
- do
- {
-     i = Console.ReadLine();
- }
- while (i=="");
- int number = Convert.ToInt32(i);
- int[] cen = new int[number+1];
- int[] result = Sum(number,cen);
- Console.Write($"这个数是{number},他的阶乘和：");
- for (int j = 0; j < number-1; j++)
- {
-     Console.Write($"{result[j]}+");
- }
- Console.Write($"{result[number-1]}={result[number]}");
- //Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
+do
+{
+    i = Console.ReadLine();
+}
+while (i=="");
+int number = Convert.ToInt32(i);
+int[] cen = new int[number+1];
+int[] result = Sum(number,cen);
+Console.Write($"这个数是{number},他的阶乘和：");
+for (int j = 0; j < number-1; j++)
+{
+    Console.Write($"{result[j]}+");
+}
+Console.Write($"{result[number-1]}={result[number]}");
+//Console.WriteLine($"这个数是{number},他的阶乘和是{result[number]}");
 }
 
 public static  int[] Sum(int i,int[] shu)
 {
 
 
- int sum = 0;
+int sum = 0;
 
- for (int j = i; j >= 1; j--)
- {
+for (int j = i; j >= 1; j--)
+{
 
-     int result = JieCheng(j);
-     shu[i - j] = result;
-     sum += result;
- }
- shu[i] = sum;
- return shu;
+    int result = JieCheng(j);
+    shu[i - j] = result;
+    sum += result;
+}
+shu[i] = sum;
+return shu;
 }
 
 
@@ -173,20 +173,20 @@ public static int JieCheng(int number)
 
 {
 
- if (number == 0)
+if (number == 0)
 
- {
+{
 
-     return 1;
+    return 1;
 
- }
+}
 
- return number * JieCheng(number - 1);
+return number * JieCheng(number - 1);
 
 }
 
 }
-}*/
+}
 
 /*using System;
 class laoqu
@@ -269,3 +269,102 @@ class laoqu
 
 
 }*/
+/*
+using System;
+/*using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+*/
+/*namespace 奇偶求和
+{
+    class Program
+    {
+        static void Main()
+        {
+
+            /*1.for
+            int ODDadd = 0;
+            int EVENadd = 0;
+
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 2 == 0) EVENadd = EVENadd + i;
+                else ODDadd = ODDadd + i;
+
+            }
+            Console.WriteLine("100以内的奇数和为：{0}", +ODDadd);
+            Console.WriteLine("100以内的偶数和为：{0}", +EVENadd);
+            Console.WriteLine("----------------------------------");
+
+            2.while*/
+/*int ODDadd1 = 0;
+int EVENadd1 = 0;
+int j = 1;
+
+while ( j <= 100)
+{
+    if (j % 2 == 0) EVENadd1 = EVENadd1 + j;
+    else ODDadd1 = ODDadd1 + j;
+    j++;
+
+
+}
+Console.WriteLine("100以内的奇数和为：{0}", ODDadd1);
+Console.WriteLine("100以内的偶数和为：{0}", EVENadd1);
+Console.WriteLine("***********************************");
+*/
+
+/*// 3.do....while
+int ODDadd2 = 0;
+int EVENadd2 = 0;
+int k = 1;
+do
+{
+    if (k % 2 == 0) EVENadd2 = EVENadd2 + k;
+    else ODDadd2 = ODDadd2 + k;
+    k++;
+
+} while (k <= 100);
+Console.WriteLine("100以内的奇数和为：{0}", +ODDadd2);
+Console.WriteLine("100以内的偶数和为：{0}", +EVENadd2);
+Console.WriteLine("###################################");
+
+}
+}
+}
+*/
+/*using System;
+namespace 阶乘求和
+{
+class Program
+{
+static void Main(string[] args)
+{/*
+int i, j = 1;
+int sum = 0;
+for (i = 1; i <= 20; i++)
+{
+    j = j * i;
+    sum = sum + j;
+}
+Console.WriteLine("1!+2!+...+20!的和为：{0}", sum);*/
+        /*    Console.WriteLine("请输入一个数字（0~10）");
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("数字" + n + "的阶乘是：" + print(n));
+        }
+        public static int print(int n)
+        {
+            if (n > 1)
+            {
+                n *= print(n - 1);
+            }
+            return n;
+        }
+
+    }
+
+
+
+}*/
+

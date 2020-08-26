@@ -2,18 +2,32 @@
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="test.cs">
     <Files>
-      <File FileName="test.cs" Line="10" Column="18" />
+      <File FileName="test.cs" Line="174" Column="1" />
     </Files>
     <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld" expanded="True">
+            <Node name="HelloWorld" expanded="True">
+              <Node name="test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
+        <State>
+          <Value>j</Value>
+          <Value>cen</Value>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/aka_captain/Documents/GitHub/C-/HelloWorld/test.cs" relfile="test.cs" line="171" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
