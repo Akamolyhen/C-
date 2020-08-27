@@ -1,0 +1,101 @@
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+C:/Users/510/Desktop/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+J:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+J:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+H:/通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/ResolveAssemblyReference.cache
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/GenerateResource.read.1.tlog
+H:/通讯录管理系统/通讯录管理系统/obj/x86/Debug/GenerateResource.write.1.tlog
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+I:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+I:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/ResolveAssemblyReference.cache
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/GenerateResource.read.1.tlog
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/510/Desktop/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/GenerateResource.write.1.tlog
+F:/16C#/实训周/课程设计/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+F:/16C#/实训周/课程设计/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csprojResolveAssemblyReference.cache
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+C:/Users/len/Documents/Tencent Files/1059789250/FileRecv/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.GenerateResource.Cache
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csprojResolveAssemblyReference.cache
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.GenerateResource.Cache
+H:/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统项目设计，王洁，陈锦/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csprojResolveAssemblyReference.cache
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+H:/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.GenerateResource.Cache
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csprojResolveAssemblyReference.cache
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+C:/Users/Administrator/Desktop/通讯录管理系统马剑楠/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.GenerateResource.Cache
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.exe
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/bin/Debug/通讯录管理系统.pdb
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form1.resources
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form2.resources
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Form3.resources
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.Properties.Resources.resources
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.GenerateResource.cache
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.exe
+/Users/aka_captain/Documents/GitHub/C-/通信录/C#通讯录管理系统/C#通讯录管理系统/通讯录管理系统/obj/x86/Debug/通讯录管理系统.pdb

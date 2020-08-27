@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F8352A32-0CE5-43BA-B1A2-FFAF9B67A0D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Win__LiuYangYong__40 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Win_LiuYangYong_40/Program.cs">
+    <Files>
+      <File FileName="Win_LiuYangYong_40/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Win_LiuYangYong_40" expanded="True">
+            <Node name="Win_LiuYangYong_40" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>j</Value>
+          <Value>cen</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
