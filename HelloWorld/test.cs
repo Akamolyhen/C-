@@ -150,7 +150,7 @@ namespace NarcissisticNumber
 }*/
 
 
-
+/*
 namespace test
 {
     class 阶乘
@@ -198,5 +198,32 @@ namespace test
     }
 }
 
+*/
 
+namespace test
+{
+    class Program
+
+    {
+        static void Main()
+        {
+            /*int num1 = int.Parse(Console.ReadLine());
+            int num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine(num1 + num2);
+            Console.ReadKey();*/
+
+            //要求用户输入他的语文，数学，英语成绩，并求出总分
+            /* Console.WriteLine("请输入语文成绩");
+             double chinese = double.Parse(Console.ReadLine());
+             Console.WriteLine("请输入数学成绩");
+             double math = double.Parse(Console.ReadLine());
+             Console.WriteLine("请输入英语成绩");
+             double english = double.Parse(Console.ReadLine());
+             Console.Write($"总分为：{chinese+math+english}");
+             Console.ReadKey();*/
+             
+        }
+    }
+    
+}
 
