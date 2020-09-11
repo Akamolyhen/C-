@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/bin/Debug/netcoreapp3.1/面对对象.deps.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/bin/Debug/netcoreapp3.1/面对对象.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/bin/Debug/netcoreapp3.1/面对对象.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/bin/Debug/netcoreapp3.1/面对对象.dll
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/bin/Debug/netcoreapp3.1/面对对象.pdb
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.dll
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.pdb
+/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/Debug/netcoreapp3.1/面对对象.genruntimeconfig.cache

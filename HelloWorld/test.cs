@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 /*namespace HelloWorld
 {
@@ -205,7 +206,21 @@ namespace test
 {
     class Program
 
-    { 
+    {
+        //委托：装方法的容器
+        public delegate int Del(int a, int b);
+
+        public delegate int Del2();
+        public static int ShowMax(int a, int b)
+        {
+            return a > b ? a : b;
+        }
+        public static int ShowMin(int a, int b)
+        {
+            return a < b ? a : b;
+        }
+
+
         static void Main()
         {
             /*int num1 = int.Parse(Console.ReadLine());
@@ -227,7 +242,9 @@ namespace test
             {
                 Console.WriteLine(item);
             }*/
-            Dictionary<int, string> dic = new Dictionary<int, string>
+
+            //字典
+            /*Dictionary<int, string> dic = new Dictionary<int, string>
             {
                 { 1, "一" },
                 { 2, "二" },
@@ -243,10 +260,62 @@ namespace test
             }
 
             //判断字典里是否有某个键
-            bool hasKey=dic.ContainsKey(5);
-            Console.WriteLine(hasKey);
+            bool hasKey=dic.ContainsKey(5);//dic.ContainsValue()
+            Console.WriteLine(hasKey);*/
+            /*
+            //List
+            List<int> list = new List<int>()
+            {
+               55,66,889
+            };
+            Console.WriteLine(list.Count);
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+            list.Remove(66);//list.RemoveAt() :按下标删除
+            Console.WriteLine(list.Count);
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+            int[] arrNum = { 111, 22, 333 };
+            list.AddRange(arrNum);
+            Console.WriteLine(list.Count);
+            foreach (int item in list)
+            {
+                Console.WriteLine(item);
+            }
+            *//*
+            //ArrayList :和List的区别不需要说明数据类型
+            ArrayList aList= new ArrayList()
+            {
+                55,"www",true
+            };
+            foreach (var item in aList)
+            {
+                Console.WriteLine(item);
+            }
+            */
+
+            /*int[] arr = new int[]
+            {
+                2,34,45,2
+            };
+            int[] arr2 = arr;
+
+            arr2[0] = 8888;
+            Console.WriteLine(arr[0]);
+            Console.WriteLine(arr2[0]);
+            */
+            Del del = new Del(ShowMax);
+            del += ShowMin;
+            int result=del(10, 20);
+            Console.WriteLine(result);
+
             Console.ReadKey();
         }
+       
     }
     
 }
