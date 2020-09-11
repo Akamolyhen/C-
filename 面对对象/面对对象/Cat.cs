@@ -1,13 +1,14 @@
 ﻿using System;
 namespace 面对对象
 {
+
     public class Cat
     {
         public int age = 0;
         public string colour = "";
         public string name = "";
 
-        public int Age { get => age; set => age = value; }
+       
 
         public void Eat()
         {

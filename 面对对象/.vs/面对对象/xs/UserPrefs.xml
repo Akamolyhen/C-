@@ -1,22 +1,25 @@
 ﻿<Properties StartupConfiguration="{7E5B0740-7708-4122-A1AF-DAC12B5946F0}|Default">
-  <MonoDevelop.Ide.ItemProperties.面对对象 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="面对对象/Cat.cs">
+  <MonoDevelop.Ide.ItemProperties.面对对象 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="面对对象/Dog.cs">
     <Files>
-      <File FileName="面对对象/Program.cs" Line="7" Column="6" />
-      <File FileName="面对对象/Cat.cs" Line="18" Column="10" />
+      <File FileName="面对对象/Program.cs" Line="19" Column="1" />
+      <File FileName="面对对象/Cat.cs" Line="11" Column="8" />
+      <File FileName="面对对象/Dog.cs" Line="4" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="面对对象" expanded="True">
             <Node name="面对对象" expanded="True">
-              <Node name="Cat.cs" selected="True" />
+              <Node name="Dog.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
+        <State>
+          <Value>cat</Value>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

@@ -7,13 +7,16 @@ namespace 面对对象
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat();
+            /*Cat cat = new Cat();
             cat.name = "野猫";
             cat.age = 3;
             cat.colour = "yellow";
             cat.SayHello();
             cat.Run();
-            cat.Eat();
+            cat.Eat();*/
+
+
+
             Console.ReadKey();
            
         }
