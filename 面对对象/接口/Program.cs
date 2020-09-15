@@ -7,7 +7,7 @@ namespace 接口
         static void Main(string[] args)
         {
             ICBC bank = new ICBC();
-            bank.SaveMoney();
+            bank.SaveMoney(); 
         }
     }
 }
