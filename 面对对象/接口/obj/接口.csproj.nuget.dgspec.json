@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/面对对象.csproj": {}
+    "/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/接口.csproj": {}
   },
   "projects": {
-    "/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/面对对象.csproj": {
+    "/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/接口.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/面对对象.csproj",
-        "projectName": "面对对象",
-        "projectPath": "/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/面对对象.csproj",
+        "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/接口.csproj",
+        "projectName": "接口",
+        "projectPath": "/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/接口.csproj",
         "packagesPath": "/Users/aka_captain/.nuget/packages/",
-        "outputPath": "/Users/aka_captain/Documents/GitHub/C-/面对对象/面对对象/obj/",
+        "outputPath": "/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

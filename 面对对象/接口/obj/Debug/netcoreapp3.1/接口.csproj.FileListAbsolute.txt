@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/bin/Debug/netcoreapp3.1/接口.deps.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/bin/Debug/netcoreapp3.1/接口.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/bin/Debug/netcoreapp3.1/接口.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/bin/Debug/netcoreapp3.1/接口.dll
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/bin/Debug/netcoreapp3.1/接口.pdb
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.dll
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.pdb
+/Users/aka_captain/Documents/GitHub/C-/面对对象/接口/obj/Debug/netcoreapp3.1/接口.genruntimeconfig.cache
