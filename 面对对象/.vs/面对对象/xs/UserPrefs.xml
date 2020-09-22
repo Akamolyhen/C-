@@ -1,23 +1,11 @@
 ﻿<Properties StartupConfiguration="{867E09B7-E22E-4E64-AFFC-34AF793E8251}|Default">
   <MonoDevelop.Ide.ItemProperties.面对对象 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="接口/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="接口/Interface.cs">
     <Files>
       <File FileName="接口/Program.cs" Line="10" Column="31" />
       <File FileName="接口/ICBC.cs" />
-      <File FileName="接口/Interface.cs" Line="8" Column="7" NotebookId="1" />
+      <File FileName="接口/Interface.cs" Line="1" Column="13" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="面对对象" expanded="True">
-            <Node name="接口" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="面对对象" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.接口 PreferredExecutionTarget="MonoDevelop.Default" />
