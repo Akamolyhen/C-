@@ -6,7 +6,9 @@ namespace 枚举
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Person p = new Person();
+            p.Showdir();
+            Console.ReadKey();
         }
     }
 }

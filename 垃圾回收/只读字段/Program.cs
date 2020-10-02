@@ -6,8 +6,10 @@ namespace 只读字段
     {
         static void Main(string[] args)
         {
-            Person p = new Person(45);
-            p.Gender = "女";
+            Person p = new Person(45)
+            {
+                Gender = "女"
+            };
             Console.WriteLine(p.Gender+" "+p.age);
             Console.ReadKey();
         }

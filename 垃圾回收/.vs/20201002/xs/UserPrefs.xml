@@ -1,24 +1,25 @@
-﻿<Properties StartupConfiguration="{C7A429BD-027F-43B7-BAE3-6074422DEECA}|Default">
+﻿<Properties StartupConfiguration="{49ACFD4C-EDD9-4560-AE55-2998B5E6718C}|Default">
   <MonoDevelop.Ide.ItemProperties.只读字段 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="枚举/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="枚举/Person.cs">
     <Files>
-      <File FileName="只读字段/Program.cs" Line="8" Column="10" />
-      <File FileName="只读字段/Person.cs" Line="8" Column="10" />
-      <File FileName="枚举/Program.cs" Line="1" Column="1" />
+      <File FileName="枚举/Program.cs" Line="12" Column="10" />
+      <File FileName="枚举/Person.cs" Line="22" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="20201002" expanded="True" selected="True">
+          <Node name="20201002" expanded="True">
             <Node name="只读字段" expanded="True" />
             <Node name="垃圾回收" expanded="True" />
-            <Node name="枚举" expanded="True" />
+            <Node name="枚举" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.枚举 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.枚举 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.垃圾回收 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

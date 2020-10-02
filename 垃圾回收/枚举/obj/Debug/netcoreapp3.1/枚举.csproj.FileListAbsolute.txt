@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/bin/Debug/netcoreapp3.1/枚举.deps.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/bin/Debug/netcoreapp3.1/枚举.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/bin/Debug/netcoreapp3.1/枚举.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/bin/Debug/netcoreapp3.1/枚举.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/bin/Debug/netcoreapp3.1/枚举.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/枚举/obj/Debug/netcoreapp3.1/枚举.genruntimeconfig.cache
