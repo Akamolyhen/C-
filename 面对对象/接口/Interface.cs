@@ -8,5 +8,6 @@ namespace 接口
         void SaveMoney();
         void GetMoney();
         void ChangeMoney();
+        
     }
 }

@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/bin/Debug/netcoreapp3.1/只读字段.deps.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/bin/Debug/netcoreapp3.1/只读字段.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/bin/Debug/netcoreapp3.1/只读字段.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/bin/Debug/netcoreapp3.1/只读字段.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/bin/Debug/netcoreapp3.1/只读字段.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/只读字段/obj/Debug/netcoreapp3.1/只读字段.genruntimeconfig.cache
