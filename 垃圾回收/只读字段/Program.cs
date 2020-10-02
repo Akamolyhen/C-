@@ -8,7 +8,7 @@ namespace 只读字段
         {
             Person p = new Person(45)
             {
-                Gender = "女"
+                Gender = "人妖"
             };
             Console.WriteLine(p.Gender+" "+p.age);
             Console.ReadKey();

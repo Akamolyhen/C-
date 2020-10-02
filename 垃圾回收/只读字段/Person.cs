@@ -3,13 +3,26 @@ namespace 只读字段
 {
     public class Person
     {
-        private string gender = "男";
+        private string gender="保密";
         public Person(int num)
         {
             age = num;
         }
 
-        public string Gender { get => gender; set => gender = value; }//通过属性来保护字段
+        public string Gender
+        {
+            get
+            {
+                return gender;
+            }
+            set
+            {
+                if (value != "男" && value != "女")
+                    return;
+                gender = value;
+            }
+        }
+       //通过属性来保护字段
         public readonly int age = 18;//readonly 是只读的关键字
         //只读字段无法修改他的值，但是可以在构造函数里面重新赋值
         //const 与 readonly 的区别

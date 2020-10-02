@@ -1,0 +1,11 @@
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/bin/Debug/netcoreapp3.1/单例模式.deps.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/bin/Debug/netcoreapp3.1/单例模式.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/bin/Debug/netcoreapp3.1/单例模式.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/bin/Debug/netcoreapp3.1/单例模式.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/bin/Debug/netcoreapp3.1/单例模式.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/单例模式/obj/Debug/netcoreapp3.1/单例模式.genruntimeconfig.cache

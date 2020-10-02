@@ -19,8 +19,17 @@ namespace 枚举
             E_Dir mydir = (E_Dir)num;//根据整型数据转换成枚举类型
             Console.WriteLine(mydir);
             string str = "down";
-            E_Dir mydir2 = (E_Dir)Enum.Parse((typeof)E_Dir, str);
+            E_Dir mydir2 = (E_Dir)Enum.Parse(typeof(E_Dir), str);
+            //这是将字符串转换成枚举类
             Console.WriteLine(mydir2);
+            E_Dir d = E_Dir.up;
+            string sre = d.ToString();//枚举类型转换为字符串类型
+            int num2 = (int)d;
+     
+            Console.WriteLine(sre+' '+num2);
+           
+
+
         }
     }
 }
