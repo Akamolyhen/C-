@@ -1,22 +1,23 @@
-﻿<Properties StartupConfiguration="{E718DDB7-538C-4A60-B5A1-EE8F05A46DA9}|Default">
+﻿<Properties StartupConfiguration="{F7905EF7-73EE-4039-88C8-A72C5D084F5B}|Default">
   <MonoDevelop.Ide.ItemProperties.只读字段 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.多播委托 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.多播委托 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.单例模式 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="多播委托/MessageCenter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="事件/Tool.cs">
     <Files>
-      <File FileName="多播委托/Program.cs" Line="1" Column="1" />
-      <File FileName="多播委托/MessageCenter.cs" Line="1" Column="1" />
+      <File FileName="事件/Program.cs" Line="4" Column="2" />
+      <File FileName="事件/Tool.cs" Line="4" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="20201002" expanded="True">
+            <Node name="事件" expanded="True">
+              <Node name="Tool.cs" selected="True" />
+            </Node>
             <Node name="单例模式" expanded="True" />
             <Node name="只读字段" expanded="True" />
             <Node name="垃圾回收" expanded="True" />
-            <Node name="多播委托" expanded="True">
-              <Node name="MessageCenter.cs" selected="True" />
-            </Node>
+            <Node name="多播委托" expanded="True" />
             <Node name="委托与事件" expanded="True" />
             <Node name="枚举" expanded="True" />
           </Node>
@@ -24,6 +25,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.事件 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.枚举 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.垃圾回收 PreferredExecutionTarget="MonoDevelop.Default" />

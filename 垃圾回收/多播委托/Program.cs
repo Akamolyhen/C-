@@ -7,7 +7,7 @@ namespace 多播委托
         static void Main(string[] args)
         {
             MessageCenter center = new MessageCenter();
-            DelMessage del = ShowmusicMessage;
+            DelMessage del = new DelMessage(ShowmusicMessage);
             del += ShownormalMessage;
             del += ShownewsMessage;
             center.ShowMessage(del);
