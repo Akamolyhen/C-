@@ -10,8 +10,9 @@ namespace 委托与事件
             tool.ShowResultSum();
             tool.ShowResultMinus();*/
             Tool tool = new Tool();
-            DelGetResult del = tool.ShowResultMinus;
-            del += tool.ShowResultSum;
+            DelGetResult del=null;
+            /*DelGetResult del = tool.ShowResultMinus;
+            del += tool.ShowResultSum;*/
             tool.ShowResult(del);
             Console.ReadKey();
         }

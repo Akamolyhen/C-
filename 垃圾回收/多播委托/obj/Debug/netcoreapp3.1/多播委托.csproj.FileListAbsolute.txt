@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/bin/Debug/netcoreapp3.1/多播委托.deps.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/bin/Debug/netcoreapp3.1/多播委托.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/bin/Debug/netcoreapp3.1/多播委托.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/bin/Debug/netcoreapp3.1/多播委托.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/bin/Debug/netcoreapp3.1/多播委托.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.dll
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.pdb
+/Users/aka_captain/Documents/GitHub/C-/垃圾回收/多播委托/obj/Debug/netcoreapp3.1/多播委托.genruntimeconfig.cache

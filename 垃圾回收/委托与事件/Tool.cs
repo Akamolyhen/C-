@@ -20,11 +20,15 @@ namespace 委托与事件
             int minus = a - num;
             Console.WriteLine($"两个数的差为：{minus}");
         }
-        public  void ShowResult(DelGetResult del)
+        public void ShowResult(DelGetResult del)
         {
-            if(del!=null)
+            if (del != null)
             {
                 del(10);
+            }
+            else
+            {
+                Console.WriteLine("委托为空");
             }
         }
     }
