@@ -18,7 +18,7 @@ namespace 事件
                 del();
             }
         }
-        public void Showevent()
+        public void  Showevent()
         {
             if(Myevent!=null)
             {
