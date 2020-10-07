@@ -13,7 +13,7 @@ namespace 事件//他的本质就是委托
         }
         public static void ShowSum()
         {
-            Console.WriteLine("the sum is 100");
+            Console.WriteLine("the sum is  100");
         }
     }
 }
