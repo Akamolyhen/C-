@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件IO", "20201010\文件IO.csproj", "{2F0EAA72-33E0-4DD3-B946-D6AABD08FFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件流操作", "文件流操作\文件流操作.csproj", "{C1395EED-6C51-49BE-A321-B863346DC2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生管理系统", "学生管理系统\学生管理系统.csproj", "{8BABE66D-C284-4418-84F2-890C60E635AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0EAA72-33E0-4DD3-B946-D6AABD08FFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0EAA72-33E0-4DD3-B946-D6AABD08FFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0EAA72-33E0-4DD3-B946-D6AABD08FFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0EAA72-33E0-4DD3-B946-D6AABD08FFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1395EED-6C51-49BE-A321-B863346DC2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1395EED-6C51-49BE-A321-B863346DC2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1395EED-6C51-49BE-A321-B863346DC2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1395EED-6C51-49BE-A321-B863346DC2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BABE66D-C284-4418-84F2-890C60E635AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BABE66D-C284-4418-84F2-890C60E635AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BABE66D-C284-4418-84F2-890C60E635AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BABE66D-C284-4418-84F2-890C60E635AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

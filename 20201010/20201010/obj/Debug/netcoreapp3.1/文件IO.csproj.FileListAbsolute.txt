@@ -1,0 +1,12 @@
+/Users/aka_captain/Projects/20201010/20201010/bin/Debug/netcoreapp3.1/文件IO.deps.json
+/Users/aka_captain/Projects/20201010/20201010/bin/Debug/netcoreapp3.1/文件IO.runtimeconfig.json
+/Users/aka_captain/Projects/20201010/20201010/bin/Debug/netcoreapp3.1/文件IO.runtimeconfig.dev.json
+/Users/aka_captain/Projects/20201010/20201010/bin/Debug/netcoreapp3.1/文件IO.dll
+/Users/aka_captain/Projects/20201010/20201010/bin/Debug/netcoreapp3.1/文件IO.pdb
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.csprojAssemblyReference.cache
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.AssemblyInfoInputs.cache
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.AssemblyInfo.cs
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.dll
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.pdb
+/Users/aka_captain/Projects/20201010/20201010/obj/Debug/netcoreapp3.1/文件IO.genruntimeconfig.cache
