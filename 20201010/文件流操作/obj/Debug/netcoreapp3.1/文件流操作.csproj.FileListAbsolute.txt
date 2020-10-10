@@ -10,3 +10,15 @@
 /Users/aka_captain/Projects/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.pdb
 /Users/aka_captain/Projects/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.genruntimeconfig.cache
 /Users/aka_captain/Projects/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/bin/Debug/netcoreapp3.1/文件流操作.deps.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/bin/Debug/netcoreapp3.1/文件流操作.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/bin/Debug/netcoreapp3.1/文件流操作.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/bin/Debug/netcoreapp3.1/文件流操作.dll
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/bin/Debug/netcoreapp3.1/文件流操作.pdb
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.dll
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.pdb
+/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/Debug/netcoreapp3.1/文件流操作.genruntimeconfig.cache

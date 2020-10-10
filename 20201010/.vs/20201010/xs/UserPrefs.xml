@@ -1,16 +1,17 @@
-﻿<Properties StartupConfiguration="{C1395EED-6C51-49BE-A321-B863346DC2A7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="学生管理系统/Program.cs">
+﻿<Properties StartupConfiguration="{8BABE66D-C284-4418-84F2-890C60E635AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="学生管理系统/Tool.cs">
     <Files>
-      <File FileName="20201010/Program.cs" Line="1" Column="1" />
-      <File FileName="文件流操作/Program.cs" />
-      <File FileName="学生管理系统/Program.cs" Line="1" Column="1" />
+      <File FileName="学生管理系统/Program.cs" Line="50" Column="40" />
+      <File FileName="学生管理系统/Student.cs" Line="11" Column="30" />
+      <File FileName="学生管理系统/StuManager.cs" Line="34" Column="14" />
+      <File FileName="学生管理系统/Tool.cs" Line="9" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="20201010" expanded="True">
             <Node name="学生管理系统" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Tool.cs" selected="True" />
             </Node>
             <Node name="文件IO" expanded="True" />
             <Node name="文件流操作" expanded="True" />
@@ -27,5 +28,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.学生管理系统 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.学生管理系统 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

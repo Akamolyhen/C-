@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/bin/Debug/netcoreapp3.1/学生管理系统.deps.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/bin/Debug/netcoreapp3.1/学生管理系统.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/bin/Debug/netcoreapp3.1/学生管理系统.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/bin/Debug/netcoreapp3.1/学生管理系统.dll
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/bin/Debug/netcoreapp3.1/学生管理系统.pdb
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.dll
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.pdb
+/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/Debug/netcoreapp3.1/学生管理系统.genruntimeconfig.cache
