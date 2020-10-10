@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aka_captain/Projects/20201010/学生管理系统/学生管理系统.csproj",
+      "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/学生管理系统.csproj",
       "projectName": "学生管理系统",
-      "projectPath": "/Users/aka_captain/Projects/20201010/学生管理系统/学生管理系统.csproj",
+      "projectPath": "/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/学生管理系统.csproj",
       "packagesPath": "/Users/aka_captain/.nuget/packages/",
-      "outputPath": "/Users/aka_captain/Projects/20201010/学生管理系统/obj/",
+      "outputPath": "/Users/aka_captain/Documents/GitHub/C-/20201010/学生管理系统/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

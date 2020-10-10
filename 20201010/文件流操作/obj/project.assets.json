@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aka_captain/Projects/20201010/文件流操作/文件流操作.csproj",
+      "projectUniqueName": "/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/文件流操作.csproj",
       "projectName": "文件流操作",
-      "projectPath": "/Users/aka_captain/Projects/20201010/文件流操作/文件流操作.csproj",
+      "projectPath": "/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/文件流操作.csproj",
       "packagesPath": "/Users/aka_captain/.nuget/packages/",
-      "outputPath": "/Users/aka_captain/Projects/20201010/文件流操作/obj/",
+      "outputPath": "/Users/aka_captain/Documents/GitHub/C-/20201010/文件流操作/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
