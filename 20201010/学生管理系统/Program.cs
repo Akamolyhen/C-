@@ -79,6 +79,10 @@ namespace 学生管理系统
             }
             ShowWelcome();
         }
+        public static void Tongji()
+        {
+
+        }
         public static void JudgeByinput()
         {
             string input = Console.ReadLine();
@@ -96,6 +100,7 @@ namespace 学生管理系统
                     Showstu(num);
                     break;
                 case "4":
+                    Tongji();
                     break;
                 case "5":
                     break;
