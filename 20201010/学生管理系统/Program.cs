@@ -52,9 +52,15 @@ namespace 学生管理系统
             Console.WriteLine("学生信息录入完毕");
             ShowWelcome();
         }
-        public static void InforShow()
+        public static void  InforShow()
         {
-            foreach(Student stu in StuManager.Instance.DicStudentInfor.Values)
+            if (StuManager.Instance.DicStudentInfor == null)
+            {
+                Console.WriteLine("请先录入学生信息");
+                ShowWelcome();
+                return;
+            }
+            foreach (Student stu in StuManager.Instance.DicStudentInfor.Values)
             {
                 Console.WriteLine($"姓名：{stu.Name}\t学号：{stu.Num}\t排名：{stu.Rank}\t平均分：{stu.AveScore}");
             }
@@ -81,8 +87,19 @@ namespace 学生管理系统
         }
         public static void Tongji()
         {
+            if (StuManager.Instance.DicStudentInfor == null)
+            {
+                Console.WriteLine("请先录入学生信息");
+                ShowWelcome();
+                return;
+            }
+            float aveScore = Tool.GetClassAveScore();
+            Console.WriteLine($"班级的平均分为{aveScore}");
 
+            float jigelv = Tool.GetClassjige();
+            Console.WriteLine($"班级的及格率为{jigelv}");
         }
+
         public static void JudgeByinput()
         {
             string input = Console.ReadLine();

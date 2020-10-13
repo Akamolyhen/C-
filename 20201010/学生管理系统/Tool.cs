@@ -36,6 +36,32 @@ namespace 学生管理系统
                 StuManager.Instance.DicStudentInfor[stunum].Rank = i + 1;
             }
         }
+        public static float GetClassAveScore()
+        {
+            float sum = 0;
+            float avescore = 0;
+            int count = 0;
+            foreach(Student stu in StuManager.Instance.DicStudentInfor.Values)
+            {
+                sum += stu.AveScore;
+                count++;
+            }
+            avescore = (float)Math.Round(sum / count, 2, MidpointRounding.AwayFromZero);
+            return avescore;
+        }
+        public static float GetClassjige()
+        {
+            int count = 0;
+            foreach(Student stu in StuManager.Instance.DicStudentInfor.Values)
+            {
+                if(stu.AveScore>=90)
+                {
+                    count++;
+                }
+            }
+            float jigelv = (float)Math.Round((float)(count / StuManager.Instance.DicStudentInfor.Count), 2, MidpointRounding.AwayFromZero);
+            return jigelv;
+        }
 
     }
 }

@@ -27,6 +27,7 @@ namespace 学生管理系统
         #endregion
 
         private Dictionary<string, Student> dicStudentInfor = new Dictionary<string, Student>();
+        
         public Dictionary<string, Student> DicStudentInfor
         { get => dicStudentInfor;  }
         //对外提供添加学生信息的方法
