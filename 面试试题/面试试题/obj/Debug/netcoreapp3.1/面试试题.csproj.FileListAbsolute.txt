@@ -1,0 +1,12 @@
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.csprojAssemblyReference.cache
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.AssemblyInfoInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.AssemblyInfo.cs
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.csproj.CoreCompileInputs.cache
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/bin/Debug/netcoreapp3.1/面试试题.deps.json
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/bin/Debug/netcoreapp3.1/面试试题.runtimeconfig.json
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/bin/Debug/netcoreapp3.1/面试试题.runtimeconfig.dev.json
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/bin/Debug/netcoreapp3.1/面试试题.dll
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/bin/Debug/netcoreapp3.1/面试试题.pdb
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.dll
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.pdb
+/Users/aka_captain/Documents/GitHub/C-/面试试题/面试试题/obj/Debug/netcoreapp3.1/面试试题.genruntimeconfig.cache
